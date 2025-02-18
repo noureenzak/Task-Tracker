@@ -12,6 +12,6 @@ This is a simple Command Line Interface (CLI) Task Tracker built in Java. It all
 - Gson (for JSON handling)
 - VSCode
 
-## 📜 How to Run
-1. Clone the repository:
-https://github.com/noureenzak/Task-Tracker 
+## 🔗 Project URL
+🔗 **GitHub Repository:** (https://github.com/noureenzak/Task-Tracker)
+
