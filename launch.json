@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "request": "launch",
+        "name": "Launch Main",
+        "mainClass": "Main",
+        "classPaths": [
+          "bin",
+          "lib/gson-2.11.0.jar"
+        ]
+      }
+    ]
+  }
+  
