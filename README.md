@@ -14,3 +14,5 @@ This is a simple Command Line Interface (CLI) Task Tracker built in Java. It all
 
 ## 🔗 Project URL
 [Task Tracker Project](https://github.com/noureenzak/Task-Tracker)
+https://github.com/noureenzak/Task-Tracker/edit/main/README.md
+Task Tracker Project](https://github.com/noureenzak/Task-Tracker
